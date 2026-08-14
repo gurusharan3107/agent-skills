@@ -9,6 +9,7 @@ Each skill lives in its own folder as a `SKILL.md` with YAML frontmatter (`name`
 | Skill | What it does |
 |---|---|
 | [`elon-algorithm`](elon-algorithm/SKILL.md) | Apply Musk's engineering algorithm to any skill, system, platform, codebase, or process — get it working, then question requirements → delete → simplify & optimize → accelerate → automate, strictly in that order. Includes the delete-until-you-add-10%-back rule and a measured before/after report. |
+| [`resolution-copilot`](resolution-copilot/SKILL.md) | Resume the Resolution Copilot / agentic incident POC: ServiceNow live intake, evidence-gated command center, verified KB, staging repro. Points at branch `cursor/resolution-copilot-foundation-a168` and required `SERVICENOW_*` secrets. |
 
 ## Using a skill
 
