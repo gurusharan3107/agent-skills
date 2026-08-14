@@ -31,10 +31,10 @@ If unset → stop and request secrets (Personal scope). Do not invent instance U
 ```bash
 cd incident-command-center
 npm test
-node scripts/test-servicenow.js
+node scripts/snow-smoke.js
 ```
 
-Success = ping OK + list of incidents (or fetch by number).
+Success = ping OK + list of incidents (or fetch by number). If secrets were skipped, use mock ITSM `servicenow-incident-demo` on `:4400` and continue Phase 0 wiring.
 
 ## Architecture (short)
 
