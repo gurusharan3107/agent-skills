@@ -8,7 +8,7 @@ Each skill lives in its own folder as a `SKILL.md` with YAML frontmatter (`name`
 
 | Skill | What it does |
 |---|---|
-| [`elon-algorithm`](elon-algorithm/SKILL.md) | Apply Musk's engineering algorithm to any skill, system, platform, codebase, or process — get it working, then question requirements → delete → simplify & optimize → accelerate → automate, strictly in that order. Includes the delete-until-you-add-10%-back rule and a measured before/after report. |
+| [`elon-algorithm`](elon-algorithm/SKILL.md) | Apply Musk's engineering algorithm to any skill, system, codebase, config or process — get it working, then question requirements → delete → simplify → optimize → automate, strictly in that order, each step repeated until a fresh pass finds nothing. Includes the delete-until-you-add-10%-back rule, the structural-vs-behavioural fix test, and a measured before/after report. |
 
 ## Using a skill
 
